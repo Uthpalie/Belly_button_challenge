@@ -1,6 +1,8 @@
 # Belly_button_challenge
 This repository contains work done with JavaScript. This particular challenge required to create an interactive dashboard for the belly button experiments where the samples for each person ID is filtered to obtain their specific demographic details, bar chart containing top ten bacteria culture data and corresponding buble chart.
 
+GitHub Pages Published Link: https://uthpalie.github.io/Belly_button_challenge/
+
 ### The following were conducted:
 
 Complete the following steps:
